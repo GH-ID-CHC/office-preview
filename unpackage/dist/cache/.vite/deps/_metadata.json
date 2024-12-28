@@ -1,0 +1,31 @@
+{
+  "hash": "258d9d42",
+  "configHash": "41bcf293",
+  "lockfileHash": "1ff05c6b",
+  "browserHash": "5bc39670",
+  "optimized": {
+    "@js-preview/docx": {
+      "src": "../../../../../node_modules/@js-preview/docx/lib/index.js",
+      "file": "@js-preview_docx.js",
+      "fileHash": "aa894f6b",
+      "needsInterop": false
+    },
+    "@js-preview/excel": {
+      "src": "../../../../../node_modules/@js-preview/excel/lib/index.js",
+      "file": "@js-preview_excel.js",
+      "fileHash": "4d98fc8e",
+      "needsInterop": false
+    },
+    "@js-preview/pdf": {
+      "src": "../../../../../node_modules/@js-preview/pdf/lib/index.js",
+      "file": "@js-preview_pdf.js",
+      "fileHash": "8008d886",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-LQ2VYIYD": {
+      "file": "chunk-LQ2VYIYD.js"
+    }
+  }
+}
