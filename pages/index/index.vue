@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		<chaihecheng-office :url="'https://501351981.github.io/vue-office/examples/dist/static/test-files/test.docx'" :fileType="'docx'"></chaihecheng-office>
+		<chai-office :url="'https://501351981.github.io/vue-office/examples/dist/static/test-files/test.docx'" :fileType="'docx'"></chai-office>
 	</view>
 </template>
 
